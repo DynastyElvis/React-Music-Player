@@ -12,32 +12,32 @@ const Developer = () => {
                 <div className="Developer-profileCard">
                     <img src={AvatarImage} alt="Profile"/>
                     <div className={"Card-details"}>
-                        <h3>Vishal Singh</h3>
-                        <p>Full Stack developer</p>
+                        <h3>Kipkemoi Elvis</h3>
+                        <p>Software Engineer</p>
                         <p>Competitive Coder</p>
                     </div>
                 </div>
                 <div className="Developer-profileDetails">
-                    <p>A Computer Science and Engineering Student at Lovely Professional University, Punjab.</p>
-                    <p>Graduating in 2022 and looking for a responsible position to gain practical knowledge</p>
-                    <p>A full-stack web developer and a Competitive coder.</p>
-                    <p>I love designing fully responsive websites.</p>
-                    <p>I have a keen interest in developing projects, whenever I want to learn something new.</p>
-                    <p>And a blogger.</p>
+                    <p>Professional Software and DevOps engineer
+</p>
+                    <p>Committed to leveraging cutting-edge Tech.
+
+</p>
+
                     <div className="Card-btn">
-                        <IconButton target={"_blank"}  href={"https://www.facebook.com/vishal.kld"} title={"vishal.kld"}>
+                        <IconButton target={"_blank"}  href={"https://www.linkedin.com/in/kipkemoi-elvis-aa3548209"} title={"vishal.kld"}>
                             <Facebook/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://twitter.com/Vishal_kld"}  title={"Vishal_kld"}>
+                        <IconButton target={"_blank"} href={" https://twitter.com/Dev_Rono"}  title={"Vishal_kld"}>
                             <Twitter/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://www.linkedin.com/in/vishalsingh-/"}  title={"vishalsingh-"}>
+                        <IconButton target={"_blank"} href={"https://www.linkedin.com/in/kipkemoi-elvis-aa3548209"}  title={"vishalsingh-"}>
                             <LinkedIn/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://www.instagram.com/vishalsingh023/"}  title={"vishalsingh023"}>
+                        <IconButton target={"_blank"} href={"https://www.instagram.com/dynastyelvis/"}  title={"vishalsingh023"}>
                             <Instagram/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://vishal.thetechnician.in/"}  title={"Web Portfolio"}>
+                        <IconButton target={"_blank"} href={"https://elvis-portfolio-blue.vercel.app/"}  title={"Web Portfolio"}>
                             <Portrait/>
                         </IconButton>
                     </div>
