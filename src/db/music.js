@@ -14,26 +14,7 @@ let musicDB = [
             download: "http://ncs.io/Shakedown",
             stream: "http://youtu.be/qJT0mc3q6Lg"
         }
-    },
 
-    },
-    {
-        id: 8,
-        name: "Ignite",
-        author_name: "Tom wilson, Heuse",
-        img: "ignite-1600419626-nHn4WXY79q.jpg",
-        lang: "ENGLISH",
-        timesPlayed: 0,
-        type: "electronic",
-        musicName: "Heuse & Tom Wilson - Ignite [NCS Release].mp3",
-        attribution: {
-            song: "Heuse & Tom Wilson - Ignite [NCS Release]",
-            musicBy: "NoCopyrightSounds",
-            download: "http://ncs.io/Ignite",
-            stream: "http://youtu.be/zbqgv0mMfwk"
-        }
-    }
-];
 
 export default musicDB;
 /*let musicDB = [
