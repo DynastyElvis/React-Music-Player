@@ -7,16 +7,6 @@
 
 ![Github Banner](https://github.com/DynastyElvis/React-Music-Player/blob/master/public/dashboard.png)
 
-# ✨ Beach Resort | Hotel Room Booking System
-
-<!-- contents of projects -->
-
-## 🧑‍💻 Development Stack
-
-- `Backend` - Node.js, Express.js & MongoDB Database
-- `Admin Panel` - React.js, Redux.js, Ant Design & Tailwind CSS
-- `Frontend` - Next.js, Redux.js & Ant Design
-
 <!-- my social media links -->
 
 [instagram-url]: https://www.instagram.com/dynastyelvis/
