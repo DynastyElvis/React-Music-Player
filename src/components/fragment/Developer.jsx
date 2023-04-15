@@ -25,16 +25,16 @@ const Developer = () => {
 </p>
 
                     <div className="Card-btn">
-                        <IconButton target={"_blank"}  href={"https://www.linkedin.com/in/kipkemoi-elvis-aa3548209"} title={"vishal.kld"}>
+                        <IconButton target={"_blank"}  href={"https://www.linkedin.com/in/kipkemoi-elvis-aa3548209"} title={"Elvis"}>
                             <Facebook/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={" https://twitter.com/Dev_Rono"}  title={"Vishal_kld"}>
+                        <IconButton target={"_blank"} href={" https://twitter.com/Dev_Rono"}  title={"Elvis"}>
                             <Twitter/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://www.linkedin.com/in/kipkemoi-elvis-aa3548209"}  title={"vishalsingh-"}>
+                        <IconButton target={"_blank"} href={"https://www.linkedin.com/in/kipkemoi-elvis-aa3548209"}  title={"Elvis"}>
                             <LinkedIn/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://www.instagram.com/dynastyelvis/"}  title={"vishalsingh023"}>
+                        <IconButton target={"_blank"} href={"https://www.instagram.com/dynastyelvis/"}  title={"Elvis"}>
                             <Instagram/>
                         </IconButton>
                         <IconButton target={"_blank"} href={"https://elvis-portfolio-blue.vercel.app/"}  title={"Web Portfolio"}>
